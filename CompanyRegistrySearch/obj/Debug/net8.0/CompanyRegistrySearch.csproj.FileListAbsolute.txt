@@ -1,0 +1,17 @@
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\bin\Debug\net8.0\CompanyRegistrySearch.exe
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\bin\Debug\net8.0\CompanyRegistrySearch.deps.json
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\bin\Debug\net8.0\CompanyRegistrySearch.runtimeconfig.json
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\bin\Debug\net8.0\CompanyRegistrySearch.dll
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\bin\Debug\net8.0\CompanyRegistrySearch.pdb
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\CompanyRegistrySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\CompanyRegistrySearch.AssemblyInfoInputs.cache
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\CompanyRegistrySearch.AssemblyInfo.cs
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\CompanyRegistrySearch.csproj.CoreCompileInputs.cache
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\CompanyRegistrySearch.dll
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\refint\CompanyRegistrySearch.dll
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\CompanyRegistrySearch.pdb
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\CompanyRegistrySearch.genruntimeconfig.cache
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\ref\CompanyRegistrySearch.dll
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\CompanyRegistrySearch.csproj.AssemblyReference.cache
+C:\Users\Netsoft\Desktop\CompanyRegistrySearch\companyregistrysearch\obj\Debug\net8.0\CompanyR.3F083763.Up2Date
